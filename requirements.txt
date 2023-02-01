@@ -1,0 +1,26 @@
+apyori==1.1.2
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_477u68wvzm/croot/certifi_1671487773341/work/certifi
+contourpy==1.0.7
+cycler==0.11.0
+et-xmlfile==1.1.0
+fonttools==4.38.0
+imbalanced-learn==0.10.1
+imblearn==0.0
+joblib==1.2.0
+kiwisolver==1.4.4
+matplotlib==3.6.3
+numpy==1.24.1
+openpyxl==3.1.0
+packaging==23.0
+pandas==1.5.3
+Pillow==9.4.0
+plotly==5.13.0
+pyparsing==3.0.9
+python-dateutil==2.8.2
+pytz==2022.7.1
+scikit-learn==1.2.1
+scipy==1.10.0
+seaborn==0.12.2
+six==1.16.0
+tenacity==8.1.0
+threadpoolctl==3.1.0
